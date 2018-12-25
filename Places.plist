@@ -1,0 +1,196 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE plist PUBLIC "-//Apple//DTD PLIST 1.0//EN" "http://www.apple.com/DTDs/PropertyList-1.0.dtd">
+<plist version="1.0">
+<array>
+	<dict>
+		<key>title</key>
+		<string>Corte Madera</string>
+		<key>description</key>
+		<string></string>
+		<key>latitude</key>
+		<real>37.92868</real>
+		<key>longitude</key>
+		<real>-122.514267</real>
+	</dict>
+	<dict>
+		<key>title</key>
+		<string>South Coast Plaza</string>
+		<key>description</key>
+		<string></string>
+		<key>latitude</key>
+		<real>33.691582</real>
+		<key>longitude</key>
+		<real>-117.892761</real>
+	</dict>
+	<dict>
+		<key>title</key>
+		<string>Apple Park Visitor Center</string>
+		<key>description</key>
+		<string></string>
+		<key>latitude</key>
+		<real>37.332829</real>
+		<key>longitude</key>
+		<real>-122.005386</real>
+	</dict>
+	<dict>
+		<key>title</key>
+		<string>One Infinite Loop</string>
+		<key>description</key>
+		<string></string>
+		<key>latitude</key>
+		<real>37.331821</real>
+		<key>longitude</key>
+		<real>-122.031181</real>
+	</dict>
+	<dict>
+		<key>title</key>
+		<string>Bay Street</string>
+		<key>description</key>
+		<string></string>
+		<key>latitude</key>
+		<real>37.84618</real>
+		<key>longitude</key>
+		<real>-122.294601</real>
+	</dict>
+	<dict>
+		<key>title</key>
+		<string>North County</string>
+		<key>description</key>
+		<string></string>
+		<key>latitude</key>
+		<real>33.068668</real>
+		<key>longitude</key>
+		<real>-117.066841</real>
+	</dict>
+	<dict>
+		<key>title</key>
+		<string>Fashion Fair</string>
+		<key>description</key>
+		<string></string>
+		<key>latitude</key>
+		<real>36.808788</real>
+		<key>longitude</key>
+		<real>-119.760986</real>
+	</dict>
+	<dict>
+		<key>title</key>
+		<string>Glendale Galleria</string>
+		<key>description</key>
+		<string></string>
+		<key>latitude</key>
+		<real>34.144981</real>
+		<key>longitude</key>
+		<real>-118.259712</real>
+	</dict>
+	<dict>
+		<key>title</key>
+		<string>The Americana</string>
+		<key>description</key>
+		<string></string>
+		<key>latitude</key>
+		<real>34.143559</real>
+		<key>longitude</key>
+		<real>-118.255753</real>
+	</dict>
+	<dict>
+		<key>title</key>
+		<string>Irvine Spectrum Center</string>
+		<key>description</key>
+		<string></string>
+		<key>latitude</key>
+		<real>33.653339</real>
+		<key>longitude</key>
+		<real>-117.749001</real>
+	</dict>
+	<dict>
+		<key>title</key>
+		<string>Beverly Center</string>
+		<key>description</key>
+		<string></string>
+		<key>latitude</key>
+		<real>34.074921</real>
+		<key>longitude</key>
+		<real>-118.377518</real>
+	</dict>
+	<dict>
+		<key>title</key>
+		<string>Otay Ranch Apple Store</string>
+		<key>description</key>
+		<string></string>
+		<key>latitude</key>
+		<real>32.621181</real>
+		<key>longitude</key>
+		<real>-116.967049</real>
+	</dict>
+	<dict>
+		<key>title</key>
+		<string>Los Cerritos</string>
+		<key>description</key>
+		<string></string>
+		<key>latitude</key>
+		<real>33.864738</real>
+		<key>longitude</key>
+		<real>-118.094749</real>
+	</dict>
+	<dict>
+		<key>title</key>
+		<string>Topanga Apple</string>
+		<key>description</key>
+		<string></string>
+		<key>latitude</key>
+		<real>34.190411</real>
+		<key>longitude</key>
+		<real>-118.604767</real>
+	</dict>
+	<dict>
+		<key>title</key>
+		<string>Carlsbad Apple</string>
+		<key>description</key>
+		<string></string>
+		<key>latitude</key>
+		<real>33.073151</real>
+		<key>longitude</key>
+		<real>-117.262688</real>
+	</dict>
+	<dict>
+		<key>title</key>
+		<string>Burlingame Apple Store</string>
+		<key>description</key>
+		<string></string>
+		<key>latitude</key>
+		<real>37.578251</real>
+		<key>longitude</key>
+		<real>-122.347122</real>
+	</dict>
+	<dict>
+		<key>title</key>
+		<string>4th Stree</string>
+		<key>description</key>
+		<string>0</string>
+		<key>latitude</key>
+		<real>37.869476</real>
+		<key>longitude</key>
+		<real>-122.300398</real>
+	</dict>
+	<dict>
+		<key>title</key>
+		<string>Brea Mall</string>
+		<key>description</key>
+		<string></string>
+		<key>latitude</key>
+		<real>33.9147</real>
+		<key>longitude</key>
+		<real>-117.883949</real>
+	</dict>
+	<dict>
+		<key>title</key>
+		<string>Valley Plaza</string>
+		<key>description</key>
+		<string></string>
+		<key>latitude</key>
+		<real>35.33938</real>
+		<key>longitude</key>
+		<real>-119.03327</real>
+	</dict>
+</array>
+</plist>

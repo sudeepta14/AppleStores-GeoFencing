@@ -14,6 +14,8 @@
 		4F39D8D121D1F5AC003EAA9B /* LaunchScreen.storyboard in Resources */ = {isa = PBXBuildFile; fileRef = 4F39D8CF21D1F5AC003EAA9B /* LaunchScreen.storyboard */; };
 		4F39D8DC21D1F5AC003EAA9B /* AppleStores_GeoFencingTests.swift in Sources */ = {isa = PBXBuildFile; fileRef = 4F39D8DB21D1F5AC003EAA9B /* AppleStores_GeoFencingTests.swift */; };
 		4F39D8E721D1F5AC003EAA9B /* AppleStores_GeoFencingUITests.swift in Sources */ = {isa = PBXBuildFile; fileRef = 4F39D8E621D1F5AC003EAA9B /* AppleStores_GeoFencingUITests.swift */; };
+		4F39D8F521D1F66C003EAA9B /* Places.swift in Sources */ = {isa = PBXBuildFile; fileRef = 4F39D8F421D1F66C003EAA9B /* Places.swift */; };
+		4F39D8F721D1F721003EAA9B /* Places.plist in Resources */ = {isa = PBXBuildFile; fileRef = 4F39D8F621D1F721003EAA9B /* Places.plist */; };
 /* End PBXBuildFile section */
 
 /* Begin PBXContainerItemProxy section */
@@ -47,6 +49,8 @@
 		4F39D8E221D1F5AC003EAA9B /* AppleStores-GeoFencingUITests.xctest */ = {isa = PBXFileReference; explicitFileType = wrapper.cfbundle; includeInIndex = 0; path = "AppleStores-GeoFencingUITests.xctest"; sourceTree = BUILT_PRODUCTS_DIR; };
 		4F39D8E621D1F5AC003EAA9B /* AppleStores_GeoFencingUITests.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = AppleStores_GeoFencingUITests.swift; sourceTree = "<group>"; };
 		4F39D8E821D1F5AC003EAA9B /* Info.plist */ = {isa = PBXFileReference; lastKnownFileType = text.plist.xml; path = Info.plist; sourceTree = "<group>"; };
+		4F39D8F421D1F66C003EAA9B /* Places.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = Places.swift; sourceTree = "<group>"; };
+		4F39D8F621D1F721003EAA9B /* Places.plist */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = text.plist.xml; path = Places.plist; sourceTree = SOURCE_ROOT; };
 /* End PBXFileReference section */
 
 /* Begin PBXFrameworksBuildPhase section */
@@ -97,6 +101,8 @@
 		4F39D8C521D1F5AA003EAA9B /* AppleStores-GeoFencing */ = {
 			isa = PBXGroup;
 			children = (
+				4F39D8F421D1F66C003EAA9B /* Places.swift */,
+				4F39D8F621D1F721003EAA9B /* Places.plist */,
 				4F39D8C621D1F5AA003EAA9B /* AppDelegate.swift */,
 				4F39D8C821D1F5AA003EAA9B /* ViewController.swift */,
 				4F39D8CA21D1F5AA003EAA9B /* Main.storyboard */,
@@ -231,6 +237,7 @@
 			files = (
 				4F39D8D121D1F5AC003EAA9B /* LaunchScreen.storyboard in Resources */,
 				4F39D8CE21D1F5AC003EAA9B /* Assets.xcassets in Resources */,
+				4F39D8F721D1F721003EAA9B /* Places.plist in Resources */,
 				4F39D8CC21D1F5AA003EAA9B /* Main.storyboard in Resources */,
 			);
 			runOnlyForDeploymentPostprocessing = 0;
@@ -258,6 +265,7 @@
 			files = (
 				4F39D8C921D1F5AA003EAA9B /* ViewController.swift in Sources */,
 				4F39D8C721D1F5AA003EAA9B /* AppDelegate.swift in Sources */,
+				4F39D8F521D1F66C003EAA9B /* Places.swift in Sources */,
 			);
 			runOnlyForDeploymentPostprocessing = 0;
 		};
@@ -433,6 +441,7 @@
 			buildSettings = {
 				ASSETCATALOG_COMPILER_APPICON_NAME = AppIcon;
 				CODE_SIGN_STYLE = Automatic;
+				DEVELOPMENT_TEAM = B95X3YPGD3;
 				INFOPLIST_FILE = "AppleStores-GeoFencing/Info.plist";
 				LD_RUNPATH_SEARCH_PATHS = (
 					"$(inherited)",
@@ -450,6 +459,7 @@
 			buildSettings = {
 				ASSETCATALOG_COMPILER_APPICON_NAME = AppIcon;
 				CODE_SIGN_STYLE = Automatic;
+				DEVELOPMENT_TEAM = B95X3YPGD3;
 				INFOPLIST_FILE = "AppleStores-GeoFencing/Info.plist";
 				LD_RUNPATH_SEARCH_PATHS = (
 					"$(inherited)",
